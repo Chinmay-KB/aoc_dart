@@ -23,11 +23,6 @@ You can find about it [on their about page](https://adventofcode.com/2022/about)
 - Star, Follow, Share, Open Issues, Raise PR's, everything is most welcome 🤩
 - I don't know though why will anyone do these in this repo 🫤
 
-## Where is the latest solution? 🙄
-
-- The solutions will be published only after the day is over, so that people don't get to copy paste and get the answer. 🤓
-- You will find plenty of repos which will post the solution immediately, but that sin won't be commited here 🤬
-
 ## How to run the solution for the day ⚙️
 
 For day 1, you can run
